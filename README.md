@@ -46,3 +46,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Eije1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Eije1)](https://git.io/streak-stats)
