@@ -1,46 +1,43 @@
-# Hi there, I’m Oloche Celestine Eije 👋
+# Welcome to my GitHub page FAM, my name is Oloche Celestine Eije
+## Sit tight while I walk you through my profile
 
-[olocheeije1@gmail.com](mailto:olocheeije1@gmail.com) || [ResearchGate](https://www.researchgate.net) || [Google Scholar](YOUR_SCHOLAR_LINK) || [LinkedIn](YOUR_LINKEDIN_LINK)
+[olocheeije1@gmail.com](mailto:olocheeije1@gmail.com) || [ResearchGate](https://www.researchgate.net) || [Google Scholar](YOUR_SCHOLAR_LINK)
 
-I am a **Biology Master's Student** specializing in **Genetic & Tissue Engineering**. I bridge the gap between **Chemical Engineering** and **Molecular Oncology** by applying systems-oriented thinking and machine learning to biological challenges.
+## Personal Statement
+I am a Master’s student in Genetic and Tissue Engineering at RUDN University. My background in chemical engineering, combined with basic molecular lab experience and machine learning projects, has provided me with a 
 
-I treat research like engineering—focusing on precision, scalability, and the long-term impact of diagnostic tools.
+## Research & Focus
+- Investigating RNA-Seq and biomarker discovery for targeted treatments.
+- Applying Data Science to genomics, precision medicine, drug delivery, and cancer research
+- Exploring 3D Bioprinting and regenerative medicine to investigate tissue repair and stem cells
 
----
+## Presently:
+- Completing my Master's at Peoples’ Friendship University of Russia (RUDN).
+- Developing an AI-Based "Doctors" from Machine Learning and Deep Learning 
+- Open to collaborations on Bioinformatics and Oncological Research projects
+- Analyzing Gene Expression data for biomarker discovery.
 
-### 🧪 Research & Focus
-- 🧬 **Molecular Oncology:** Investigating RNA-Seq and biomarker discovery for targeted treatments.
-- 🤖 **Bioinformatics:** Using Python and ML to classify malignancies with clinical accuracy.
-- 🏗️ **Genetic Engineering:** Exploring 3D Bioprinting and regenerative medicine at RUDN University.
 
-### 👀 I’m currently:
-- 🇷🇺 Completing my Master's at **Peoples’ Friendship University of Russia (RUDN)**.
-- 🔬 Refining an **AI Oncologist** (Breast Cancer Classifier) with 97.4% accuracy.
-- 📊 Analyzing **Gene Expression** data for biomarker discovery.
-- 🌍 Open to collaborations on **Bioinformatics** and **Oncological Research** projects.
+## Skills and Proficiencies
 
----
+### Computational & Data Science
+- ![Python](https://img.shields.io)
+- ![Scikit-Learn](https://img.shields.io)
+- [Pandas](https://img.shields.io)
+- ![NumPy](https://img.shields.io)
 
-### 🧰 Tech Stack & Skills
+### Wet-Lab & Engineering
+- **Biomedical:** Cell Culture (In-Vitro), Biological Sample Prep, Centrifugation.
+ **Chemical Engineering:** Biodiesel Synthesis, Catalyst Engineering, System Optimization.
 
-**Computational & Data Science**
-![Python](https://img.shields.io)
-![Scikit-Learn](https://img.shields.io)
-![Pandas](https://img.shields.io)
-![NumPy](https://img.shields.io)
-
-**Wet-Lab & Engineering**
-- **Bio-Engineering:** Cell Culture (In-Vitro), Biological Sample Prep, Centrifugation.
-- **Chemical Engineering:** Biodiesel Synthesis, Catalyst Engineering, System Optimization.
-
-**Languages**
+### Languages
 - **English:** Native
-- **Russian:** A2 Proficiency (TORFL)
+- **Russian:** B2 Proficiency (TORFL)
 - **Igbo & Idoma:** Native/Fluent
 
 ---
 
-### 📈 GitHub Stats
+## GitHub Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app" alt="Oloche's Stats" height="150" />
 <img src="https://github-readme-stats.vercel.app" alt="Top Languages" height="150" />
