@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Eije1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Oloche Celestine Eije" width="400" />
+    <img src="https://github.com/Eije1/Eije1/raw/main/6804BD28-7434-4606-8827-6D7A7936DAC4.png" alt="Oloche Celestine Eije" width="400" />
   </a>
 </p>
 
@@ -40,4 +40,9 @@
     <img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Eije1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/Eije1?tab=repositories&sort=stargazers">
     <img alt="GitHub stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Eije1?color=55960c&labelColor=488207&style=for-the-badge&logo=github&label=Stars"/></a>
+</p>
+
+<!-- Optional: Add a visitor counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eije1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
