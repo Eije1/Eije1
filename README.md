@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Eije1">
-    <img src="https://github.com/Eije1/Eije1/raw/main/D8963FF3-5108-4AA3-9756-4A0ADBC194AD.png" alt="Oloche Celestine Eije" width="400" />
+    <img src="https://github.com/Eije1/Eije1/raw/main/D8963FF3-5108-4AA3-9756-4A0ADBC194AD.png" alt="Oloche Celestine Eije" width="700" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<!-- Social icons section - UPDATED with reliable CDN -->
+<!-- Social icons section -->
 <p align="center">
   <a href="https://www.researchgate.net/profile/Oloche-Eije">
     <img width="48px" alt="ResearchGate" title="ResearchGate" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg"/></a>
