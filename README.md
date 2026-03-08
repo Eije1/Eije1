@@ -4,15 +4,11 @@
   </a>
 </p>
 
-<br><br>
-
 <p align="center">
   <a href="https://github.com/Eije1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=MSc+Student+Russian+Biotechnology+University;Genetic+and+Tissue+Engineering;Molecular+Oncology+Bioinformatics+Genomics;Machine+Learning+Biomarker+Discovery+Cancer+Research;RNA-Seq+Cell+Culture+Gene+Editing;Scholar+US+Nigeria+Brazil+Russia;6000%2B+Reads+on+ResearchGate;200%2B+Reads+on+Academia;Moving+to+RUDN+University+October+2026;I+Speak+English+and+Russian;Same+Birthday+as+Lionel+Messi&font=Fira%20Code&center=true&width=900&height=100&color=f75c7e&vCenter=true&pause=1200&size=18" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=MSc+Student+%7C+Russian+Biotechnology+University;Genetic+and+Tissue+Engineering;Molecular+Oncology+%7C+Bioinformatics;Machine+Learning+for+Biomarker+Discovery;RNA-Seq+%7C+Cell+Culture+%7C+Gene+Editing;Scholarship+Winner+Including+US%2C+Nigeria%2C+Brazil%2C+Russia;6K%2B+Reads+on+ResearchGate;200%2B+Reads+on+Academia.edu;Moving+to+RUDN+University+by+October+2026;I+Speak+English+and+Russian&font=Fira%20Code&center=true&width=900&height=80&color=f75c7e&vCenter=true&pause=1200&size=20" alt="Typing SVG" />
   </a>
 </p>
-
-<br><br>
 
 <!-- Social icons section -->
 <p align="center">
@@ -35,10 +31,8 @@
     <img width="48px" alt="ORCID" title="ORCID" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://unizikedu.academia.edu/OlocheEije">
-    <img width="48px" alt="Academia" title="Academia" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/academia.svg"/></a>
+    <img width="48px" alt="Academia.edu" title="Academia.edu" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/academia.svg"/></a>
 </p>
-
-<br><br>
 
 <!-- Followers and Stars badges -->
 <p align="center">
@@ -48,18 +42,14 @@
     <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Eije1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-<br><br>
-
 <!-- Profile views counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Eije1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<br><br>
-
 <!-- GitHub Streak Stats - Customized Dark Theme -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Eije1&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=CCCCCC&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC" alt="GitHub Streak" width="900"/>
+    <img src="https://streak-stats.demolab.com?user=Eije1&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=CCCCCC&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC" alt="GitHub Streak" />
   </a>
 </p>
