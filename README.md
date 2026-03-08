@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Eije1">
-    <img src="https://github.com/Eije1/Eije1/raw/main/6804BD28-7434-4606-8827-6D7A7936DAC4.png" alt="Oloche Celestine Eije" width="400" />
+    <img src="https://github.com/Eije1/Eije1/raw/main/D8963FF3-5108-4AA3-9756-4A0ADBC194AD.png" alt="Oloche Celestine Eije" width="400" />
   </a>
 </p>
 
@@ -10,28 +10,28 @@
   </a>
 </p>
 
-<!-- Social icons section -->
+<!-- Social icons section - UPDATED with reliable CDN -->
 <p align="center">
   <a href="https://www.researchgate.net/profile/Oloche-Eije">
-    <img width="48px" alt="ResearchGate" title="ResearchGate" src="https://img.icons8.com/color/48/researchgate.png"/></a>
+    <img width="48px" alt="ResearchGate" title="ResearchGate" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
-    <img width="48px" alt="Google Scholar" title="Google Scholar" src="https://img.icons8.com/color/48/google-scholar--v3.png"/></a>
+    <img width="48px" alt="Google Scholar" title="Google Scholar" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/Eije1">
-    <img width="48px" alt="GitHub" title="GitHub" src="https://img.icons8.com/color/48/github--v1.png"/></a>
+    <img width="48px" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:olocheeije1@gmail.com">
-    <img width="48px" alt="Email" title="Email" src="https://img.icons8.com/color/48/gmail-new.png"/></a>
+    <img width="48px" alt="Email" title="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.kaggle.com/olocheceije">
-    <img width="48px" alt="Kaggle" title="Kaggle" src="https://img.icons8.com/color/48/kaggle.png"/></a>
+    <img width="48px" alt="Kaggle" title="Kaggle" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://orcid.org/0009-0007-0369-7500">
-    <img width="48px" alt="ORCID" title="ORCID" src="https://img.icons8.com/color/48/orcid.png"/></a>
+    <img width="48px" alt="ORCID" title="ORCID" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://unizikedu.academia.edu/OlocheEije">
-    <img width="48px" alt="Academia.edu" title="Academia.edu" src="https://img.icons8.com/color/48/graduation-cap.png"/></a>
+    <img width="48px" alt="Academia.edu" title="Academia.edu" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/academia.svg"/></a>
 </p>
 
 <!-- Followers and Stars badges -->
@@ -42,7 +42,7 @@
     <img alt="GitHub stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Eije1?color=55960c&labelColor=488207&style=for-the-badge&logo=github&label=Stars"/></a>
 </p>
 
-<!-- Optional: Add a visitor counter -->
+<!-- Profile views counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Eije1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
