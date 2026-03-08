@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Eije1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Master's+student+at+Russian+Biotechnology+University;Genetic+and+Tissue+Engineering;Molecular+Oncology+%7C+Bioinformatics+%7C+Genomics;Machine+Learning+for+Biomarker+Discovery;RNA-Seq+%7C+Cell+Culture+%7C+HPC;Always+learning+new+things&font=Fira%20Code&center=true&width=800&height=80&color=f75c7e&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Master's+student+at+Russian+Biotechnology+University;Genetic+and+Tissue+Engineering;Molecular+Oncology+%7C+Bioinformatics+%7C+Genomics;Machine+Learning+for+Biomarker+Discovery;RNA-Seq+%7C+Cell+Culture+%7C+HPC&font=Fira%20Code&center=true&width=800&height=80&color=f75c7e&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
   </a>
 </p>
 
@@ -47,5 +47,9 @@
   <img src="https://komarev.com/ghpvc/?username=Eije1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Eije1)](https://git.io/streak-stats)
+<!-- GitHub Streak Stats - Customized Dark Theme -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Eije1&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=CCCCCC&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC" alt="GitHub Streak" />
+  </a>
+</p>
