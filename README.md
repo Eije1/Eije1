@@ -1,28 +1,43 @@
-### Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Oloche Celestine Eije 👋 🔬
 
-I'm a passionate [Your Profession/Role] who loves [Your Interests/What you do].
+[![ResearchGate](https://img.shields.io)](https://www.researchgate.net)
+[![Google Scholar](https://img.shields.io)](YOUR_GOOGLE_SCHOLAR_LINK)
+[![LinkedIn](https://img.shields.io)](YOUR_LINKEDIN_LINK)
 
--   🔭 I’m currently working on [Project Name or specific skill].
--   🌱 I’m currently learning [Topic, Language, or Framework].
--   👯 I’m looking to collaborate on [Type of projects or specific ideas].
--   🤔 I’m looking for help with [Specific problem or concept].
--   💬 Ask me about [Topics you are knowledgeable about].
--   📫 How to reach me: [Your Email, LinkedIn Profile URL, or Twitter handle].
--   😄 Pronouns: [Your Pronouns (optional)].
--   ⚡ Fun fact: [A fun fact about yourself].
+I am a **Master’s Student in Biology (Genetic & Tissue Engineering)** at RUDN University, Moscow. With a background in **Chemical Engineering**, I apply a systems-oriented approach to **Molecular Oncology**, **Bioinformatics**, and **Genomics**.
 
 ---
 
-### Tech Stack
+### 🔭 Research & Academic Journey
+- 🧬 **Current Focus:** Genetic and Tissue Engineering at **Peoples’ Friendship University of Russia (RUDN)**.
+- 🧪 **Research Interests:** Molecular Oncology, RNA-Seq analysis, and the intersection of Machine Learning & Medicine.
+- 🎓 **Background:** B.Eng in Chemical Engineering (Second-Class Upper) from Nnamdi Azikiwe University.
+- 🌍 **Global Recognition:** Awarded the **Russian Government Scholarship**; previously offered prestigious fellowships in Brazil (GCUB) and the USA (Illinois Tech).
 
--   **Languages:** [e.g., Python, JavaScript, Java]
--   **Frameworks:** [e.g., React, Django, Spring]
--   **Tools:** [e.g., Docker, Git, VS Code]
+### 🛠 Tech Stack & Skills
+- **Computational:** Python, Machine Learning (Scikit-Learn, Pandas, NumPy), High-Performance Computing (HPC).
+- **Bio-informatics:** RNA-Seq analysis, Biomarker Discovery, Genomic Data Science.
+- **Wet-Lab:** Cell Culture (In-Vitro), Biological Sample Prep, Centrifugation.
+- **Languages:** English (Native), Russian (A2 Proficiency), Igbo.
+
+### 🚀 Featured Project: AI Oncologist
+**[Breast Cancer Classifier](https://github.com)**
+- Developed a ML model to classify breast cancer malignancy with **97.4% accuracy**.
+- Engineered features from the Wisconsin Breast Cancer Dataset using Scikit-learn.
+- Validated performance via F1-scores and confusion matrix for clinical decision-support.
 
 ---
 
-### GitHub Stats
+### 📝 Recent Publications
+- **Nanotechnology for Targeted Treatments:** Impact of lifestyle, age, and gender on degenerative diseases (*Int. J. Med. Biol. Pharm. Sci, 2025*).
+- **Biodiesel Synthesis:** Utilizing waste cooking oil and periwinkle shell catalysts (*Journal of Energy Research, 2020*).
 
-You can dynamically add stats cards and badges to your profile using tools like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [Shields.io](https://shields.io).
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app)
+### 📊 GitHub Stats
+![Oloche's GitHub stats](https://github-readme-stats.vercel.app)
+
+### 📫 Contact Me
+- **Email:** [olocheeije1@gmail.com](mailto:olocheeije1@gmail.com)
+- **Location:** Moscow, Russian Federation 🇷🇺
+- **Phone:** +7 (906) 739-24-06
