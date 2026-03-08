@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Eije1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=MSc+Student+%7C+Russian+Biotechnology+University;Genetic+%26+Tissue+Engineering;Molecular+Oncology+%7C+Bioinformatics;Machine+Learning+for+Biomarker+Discovery;RNA-Seq+%7C+Cell+Culture+%7C+HPC;%F0%9F%8F%86+Scholar%3A+Nigeria+%7C+USA+%7C+Brazil+%7C+Russia;%F0%9F%93%9A+6K%2B+Reads+on+ResearchGate;%F0%9F%93%84+200%2B+Reads+on+Academia.edu;%F0%9F%94%93+Cracked+WES+Evaluation+Code;%F0%9F%9A%AB+Banned+on+LinkedIn+For+It&font=Fira%20Code&center=true&width=800&height=80&color=f75c7e&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=MSc+Student+%7C+Russian+Biotechnology+University;Genetic+and+Tissue+Engineering;Molecular+Oncology+%7C+Bioinformatics;Machine+Learning+for+Biomarker+Discovery;RNA-Seq+%7C+Cell+Culture+%7C+Gene+Editing;Scholarship+Winner+Including+US%2C+Nigeria%2C+Brazil%2C+Russia;6K%2B+Reads+on+ResearchGate;200%2B+Reads+on+Academia.edu;Moving+to+RUDN+University+by+October+2026;I+Speak+English+and+Russian&font=Fira%20Code&center=true&width=900&height=80&color=f75c7e&vCenter=true&pause=1200&size=20" alt="Typing SVG" />
   </a>
 </p>
 
