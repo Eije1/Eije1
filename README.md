@@ -1,44 +1,44 @@
 <p align="center">
   <a href="https://github.com/Eije1">
-    <img src="https://github.com/Eije1/Eije1/raw/main/D8963FF3-5108-4AA3-9756-4A0ADBC194AD.png" alt="Oloche Celestine Eije" width="700" />
+    <img src="https://github.com/Eije1/Eije1/raw/main/D8963FF3-5108-4AA3-9756-4A0ADBC194AD.png" alt="Oloche Celestine Eije" width="900" style="max-height: 180px; width: auto; object-fit: cover;" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Eije1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Oloche+Celestine+Eije;Master's+student+at+Russian+Biotechnology+University;Genetic+and+Tissue+Engineering;Molecular+Oncology+%7C+Bioinformatics+%7C+Genomics;Machine+Learning+for+Biomarker+Discovery;RNA-Seq+%7C+Cell+Culture+%7C+HPC;Always+learning+new+things&font=Fira%20Code&center=true&width=550&height=60&color=f75c7e&vCenter=true&pause=1000&size=18" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Master's+student+at+Russian+Biotechnology+University;Genetic+and+Tissue+Engineering;Molecular+Oncology+%7C+Bioinformatics+%7C+Genomics;Machine+Learning+for+Biomarker+Discovery;RNA-Seq+%7C+Cell+Culture+%7C+HPC;Always+learning+new+things&font=Press+Start+2P&center=true&width=700&height=150&color=888888&vCenter=true&pause=1200&size=14&background=00000000&border=1&borderColor=333333&random=false&weight=900" alt="Typing SVG - Scratched Wall Style" />
   </a>
 </p>
 
-<!-- Social icons section -->
+<!-- Social icons section with working links -->
 <p align="center">
-  <a href="https://www.researchgate.net/profile/Oloche-Eije">
+  <a href="https://www.researchgate.net/profile/Oloche-Eije" target="_blank">
     <img width="48px" alt="ResearchGate" title="ResearchGate" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
+  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank">
     <img width="48px" alt="Google Scholar" title="Google Scholar" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/Eije1">
+  <a href="https://github.com/Eije1" target="_blank">
     <img width="48px" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:olocheeije1@gmail.com">
+  <a href="mailto:olocheeije1@gmail.com" target="_blank">
     <img width="48px" alt="Email" title="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.kaggle.com/olocheceije">
+  <a href="https://www.kaggle.com/olocheceije" target="_blank">
     <img width="48px" alt="Kaggle" title="Kaggle" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://orcid.org/0009-0007-0369-7500">
+  <a href="https://orcid.org/0009-0007-0369-7500" target="_blank">
     <img width="48px" alt="ORCID" title="ORCID" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://unizikedu.academia.edu/OlocheEije">
+  <a href="https://unizikedu.academia.edu/OlocheEije" target="_blank">
     <img width="48px" alt="Academia.edu" title="Academia.edu" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/academia.svg"/></a>
 </p>
 
 <!-- Followers and Stars badges -->
 <p align="center">
-  <a href="https://github.com/Eije1?tab=followers">
+  <a href="https://github.com/Eije1?tab=followers" target="_blank">
     <img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Eije1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/Eije1?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Eije1?tab=repositories&sort=stargazers" target="_blank">
     <img alt="GitHub stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Eije1?color=55960c&labelColor=488207&style=for-the-badge&logo=github&label=Stars"/></a>
 </p>
 
